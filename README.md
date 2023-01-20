@@ -48,7 +48,7 @@
 <img width="1400px" src="https://user-images.githubusercontent.com/91110192/181713064-a61209dc-5678-491c-b41e-5d59c664fb56.png"/>
 
 ## 사이트 시현 영상
-<img src="https://user-images.githubusercontent.com/91110192/181877787-b8f6c159-017d-4452-aac7-5b4e364c5f67.gif">
+<img src="https://user-images.githubusercontent.com/91110192/191254956-09abe406-efd7-42f9-b388-c8751f2b1aa5.gif">
 
 ## API 명세서
 <img width="797" alt="스크린샷 2022-07-30 오후 3 33 59" src="https://user-images.githubusercontent.com/91110192/181878038-25f4d635-4407-4d84-b4f1-fbe2c041096f.png">
