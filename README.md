@@ -6,6 +6,7 @@
 ## 팀 인원
 - BE(2명): 손찬규, 박서윤
 - FE(4명): 신수정, 심동규, 이현주, 정훈조
+  - FE [Github](https://github.com/wecode-bootcamp-korea/35-1st-Dev-Island-frontend)
 
 ## 개발 기간
 - 개발 기간 : 2022-07-18 ~ 2022-07-29 (12일)
